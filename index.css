@@ -1,0 +1,115 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
+ 
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+
+/* -----------------Nav bar styles starts here------------------- */
+
+.banner_part{
+    background: url('./images/banner_01.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+}
+
+.menu img {
+    float: right;
+}
+
+.ban_text {
+    /* border: 2px solid red; */
+    height:360px;
+
+    /* height: 100%; */
+}
+   
+
+.ban_text h2{
+ color: white;
+ margin-top:130px;
+ 
+ /* border: 2px solid red; */
+
+}
+
+
+.ban_text h1{
+ color: white;
+ 
+ /* border: 2px solid red; */
+}
+/* -----------------Nav bar styles ends here------------------- */
+
+.title{
+    text-align: center; 
+    padding: 20px;
+    font-size: 25px;
+}
+
+.about_us_content{
+    padding: 10px;
+}
+
+.about_us_content h2{
+    margin: 5px 0px 30px ;
+}
+.about_us_content p{
+    /* border: 2px solid green; */
+    text-align: center;
+}
+
+
+/* ins styles */
+
+
+.ins_content h6{
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.ins_content p{
+    font-size: 13px;
+}
+
+.ins_content button{
+    margin-top: 15px;
+}
+
+.lst_p{
+    padding: 20px;
+    /* background-color: cadetblue; */
+    background: url('./images/specila-bg_05.png');
+}
+/* footer  */
+
+.footer{
+    background: #150f14;
+    color: #6c6b6c;
+    padding-top: 20px;
+}
+
+.sm_link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.sm_link i{
+    border: 2px solid white;
+    padding: 10px ;
+    border-radius: 50%;
+    color: white;
+}
+
+
+

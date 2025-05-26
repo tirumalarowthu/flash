@@ -19,3 +19,4 @@ C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use
 [0523/183110.133:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
 [0523/190231.868:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
 [0523/190231.871:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0523/192644.098:ERROR:browser_gpu_channel_host_factory.cc(139)] Failed to launch GPU process.
